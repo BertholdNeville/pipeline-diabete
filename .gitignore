@@ -1,0 +1,21 @@
+# Données
+data/
+*.csv
+*.parquet
+
+# Secrets
+.env
+
+# Modèles entraînés
+models/
+
+# Python et Jupyter
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Système et Office
+Thumbs.db
+desktop.ini
+~$*
